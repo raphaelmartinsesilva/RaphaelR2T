@@ -17,3 +17,4 @@ function jogadas (j1, posX, posY){
     jogadas("o", 1, 1);
 
 dasas asasaasasasa
+aasasasdaas
