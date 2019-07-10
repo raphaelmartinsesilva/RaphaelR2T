@@ -1,0 +1,7 @@
+//campo minado - 3 parâmetros (horizontal, vertical, número de bombas) - função;
+
+//Função jogar - passar cordenadas (x e y de onde jogar), ;
+
+//Avisar ao encontrar uma bomba ou vencedor;
+
+//Printar quantas bombas faltam e tempo restante
