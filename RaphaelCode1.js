@@ -15,3 +15,5 @@ function jogadas (j1, posX, posY){
         console.log("Jogada inválida")
     }
     jogadas("o", 1, 1);
+
+dasas asasaasasasa
